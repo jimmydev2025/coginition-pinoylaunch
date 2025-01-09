@@ -34314,15 +34314,15 @@
                         children: [(0, zp.jsx)(Yp, {
                             onClick: function() {
                                 var e;
-                                return null === (e = window.open("https://Cognition.Ai", "_blank")) || void 0 === e ? void 0 : e.focus()
+                                return null === (e = window.open("TELEGRAM", "_blank")) || void 0 === e ? void 0 : e.focus()
                             },
-                            children: "DAPP"
+                            children: "https://t.me/"
                         }), (0, zp.jsx)(Yp, {
                             onClick: function() {
                                 var e;
-                                return null === (e = window.open("https://www.alphabot.app/neura-adanede", "_blank")) || void 0 === e ? void 0 : e.focus()
+                                return null === (e = window.open("https://x.com", "_blank")) || void 0 === e ? void 0 : e.focus()
                             },
-                            children: "Apply for wl"
+                            children: "TWITTER"
                         })]
                     })]
                 })
