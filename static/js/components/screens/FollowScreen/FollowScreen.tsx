@@ -10,7 +10,7 @@ export function FollowScreen() {
     const [hover, setHover] = useState(false);
 
     const openTwitter = () => {
-        window.open('https://t.me/CognitionAI', '_blank')?.focus();
+        window.open('https://t.me/CognitionAISol', '_blank')?.focus();
     };
 
     return (

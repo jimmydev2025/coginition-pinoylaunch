@@ -30786,7 +30786,7 @@
                                 directContent: !0,
                                 onClick: function() {
                                     var e;
-                                    null === (e = window.open("https://twitter.com/ai_cogni", "_blank")) || void 0 === e || e.focus()
+                                    null === (e = window.open("https://x.com/CognitionAisol", "_blank")) || void 0 === e || e.focus()
                                 },
                                 children: (0, zp.jsx)("svg", {
                                     width: "34",
@@ -30803,7 +30803,7 @@
                                 directContent: !0,
                                 onClick: function() {
                                     var e;
-                                    null === (e = window.open("https://t.me/CognitionAI", "_blank")) || void 0 === e || e.focus()
+                                    null === (e = window.open("https://t.me/CognitionAISol", "_blank")) || void 0 === e || e.focus()
                                 },
                                 children: (0, zp.jsx)("svg", {
                                     width: "34",
@@ -34316,11 +34316,11 @@
                                 var e;
                                 return null === (e = window.open("TELEGRAM", "_blank")) || void 0 === e ? void 0 : e.focus()
                             },
-                            children: "https://t.me/"
+                            children: "https://t.me/CognitionAISol"
                         }), (0, zp.jsx)(Yp, {
                             onClick: function() {
                                 var e;
-                                return null === (e = window.open("https://x.com", "_blank")) || void 0 === e ? void 0 : e.focus()
+                                return null === (e = window.open("https://x.com/CognitionAisol", "_blank")) || void 0 === e ? void 0 : e.focus()
                             },
                             children: "TWITTER"
                         })]
