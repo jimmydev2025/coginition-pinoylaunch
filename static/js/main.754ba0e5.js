@@ -29327,7 +29327,7 @@
                     }]
                 }, {
                     name: "Compressors",
-                    description: "Simplifies inputs, neural network creates unique rarity",
+                    description: "Simplifies inputs, Cognition network creates unique rarity",
                     group: ev.Neck,
                     camera: new Ba(0, 1.79, 1),
                     cameraZoom: 1.8,
@@ -29495,7 +29495,7 @@
                     }]
                 }, {
                     name: "Compressor",
-                    description: "Simplifies inputs, neural network creates unique rarity",
+                    description: "Simplifies inputs, cognition network creates unique rarity",
                     group: ev.Neck,
                     camera: new Ba(0, 1.68, 1),
                     cameraZoom: 1.7,
@@ -29648,7 +29648,7 @@
                     }]
                 }, {
                     name: "Compressors",
-                    description: "Simplifies inputs, neural network creates unique rarity",
+                    description: "Simplifies inputs, cognition network creates unique rarity",
                     group: ev.Neck,
                     camera: new Ba(0, 1.68, 1),
                     cameraZoom: 1.7,
@@ -29801,7 +29801,7 @@
                     }]
                 }, {
                     name: "Compressor",
-                    description: "Simplifies inputs, neural network creates unique rarity",
+                    description: "Simplifies inputs, cognition network creates unique rarity",
                     group: ev.Neck,
                     camera: new Ba(0, 1.68, 1),
                     cameraZoom: 1.7,
@@ -30009,7 +30009,7 @@
                     }]
                 }, {
                     name: "Compressors",
-                    description: "Simplifies inputs, neural network creates unique rarity",
+                    description: "Simplifies inputs, cognition network creates unique rarity",
                     group: ev.Neck,
                     camera: new Ba(0, 1.79, 1),
                     cameraZoom: 1.8,
@@ -34461,7 +34461,7 @@
                 title: "General",
                 entries: [{
                     title: "What is Cognition AI",
-                    content: ["Cognition  is a decentralized autonomous artist that combines human art and the art of Neural Networks.", "Every holder will act as a node in a global net of the art of the New Era.", "Despite its artistic and subjective value, on the other side, Cognition  is a complete product with its utility value, providing holders with experience, immersion, and a rewarding system."]
+                    content: ["Cognition  is a decentralized autonomous artist that combines human art and the art of cognition Networks.", "Every holder will act as a node in a global net of the art of the New Era.", "Despite its artistic and subjective value, on the other side, Cognition  is a complete product with its utility value, providing holders with experience, immersion, and a rewarding system."]
                 }, {
                     title: "How does the SupremePunks collection relate to Cognition AI",
                     content: ["A long time ago, we began our journey with the art-based project SupremePunks. As a way of thanking all the holders who supported us, we took a ~snapshot~ to reward all owners with a free airdrop based on the quantity of SupremePunks they owned.", "We strongly believe that the aim of every NFT project should be not only to meet stated goals but also to exceed expectations."]
@@ -34514,7 +34514,7 @@
                     content: ["The total number of Modules is TBA. The exact distribution among each of the 6 categories is TBA."]
                 }, {
                     title: "How does the upgrading system work?",
-                    content: ["Applying a certain Module to an Android upgrades a certain skill and changes the appearance of your Android. You can purchase and apply multiple Modules of the same type to the Android, boosting a certain skill even more. In this manner, you can achieve any combination of Modules on your Android with up to 3 levels for each Module (except for Nicole, which has 4 levels). Each Module affects paintings differently. Some modify the style, while others directly impact the rarity of the painting.", "BUT: nothing is 100% certain, neural networks only tend to some patterns and rules but they are still unpredictable and can\u2019t be fully controlled."]
+                    content: ["Applying a certain Module to an Android upgrades a certain skill and changes the appearance of your Android. You can purchase and apply multiple Modules of the same type to the Android, boosting a certain skill even more. In this manner, you can achieve any combination of Modules on your Android with up to 3 levels for each Module (except for Nicole, which has 4 levels). Each Module affects paintings differently. Some modify the style, while others directly impact the rarity of the painting.", "BUT: nothing is 100% certain, cognition networks only tend to some patterns and rules but they are still unpredictable and can\u2019t be fully controlled."]
                 }, {
                     title: "is it possible to reset an android\u2019s modules?",
                     content: ["No, a reset is not possible. Once a Module is applied to an Android, the Module's token is burned, permanently changing the Android's metadata. The Android will never be downgraded and will not become a worse artist."]
@@ -34526,7 +34526,7 @@
                 title: "Paintings",
                 entries: [{
                     title: "how are paintings created?",
-                    content: ["All paintings are created by our AI automated system. The drawing process begins as soon as a user orders a painting from an Android. There are several separate neural networks used in the combination. Upon receiving a request from a specific Android, Cognition adjusts the system parameters accordingly and selects an input \u2013 an initial pattern hand-drawn by an artist. Afterward, the ~Automatic generation of prompts~ creates a unique title (prompt) for the painting based on a large amount of data we\u2019ve been collecting for over a year.The title and the input are processed by ~Control Net~ and ~Stable Diffusion~ neural networks. The artwork is then upscaled to a higher resolution. The entire painting process is fully automated and doesn't require manual intervention at any stage."]
+                    content: ["All paintings are created by our AI automated system. The drawing process begins as soon as a user orders a painting from an Android. There are several separate cognition networks used in the combination. Upon receiving a request from a specific Android, Cognition adjusts the system parameters accordingly and selects an input \u2013 an initial pattern hand-drawn by an artist. Afterward, the ~Automatic generation of prompts~ creates a unique title (prompt) for the painting based on a large amount of data we\u2019ve been collecting for over a year.The title and the input are processed by ~Control Net~ and ~Stable Diffusion~ cognition networks. The artwork is then upscaled to a higher resolution. The entire painting process is fully automated and doesn't require manual intervention at any stage."]
                 }, {
                     title: "will the same androids with the same modules make the same painting?",
                     content: "No, even though it might seem like it could happen, there is no possibility of that occurring. Firstly, Androids never produce paintings with the same plot. Secondly, even the same module can affect a painting in different ways. Finally, each Android model from the same company has its unique gene that varies its paintings."
